@@ -18,6 +18,6 @@ Welcome to Cyber Security Hub, where cyber security training providers and learn
 # Overview
 
 | Provider | Focus | No of Courses | Types | Price Range | Topics | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Applied Network Defense | Defense | 10-20 | Online | Value | threat hunting, splunk, log analysis, detection engineering, sigma, honeypots, packet analysis, cyber chef, osquery, elk, security writing, regular expressions |
 | TryHackMe | Offense / Defense | 50+ | Online | Budget | |
