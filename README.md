@@ -17,12 +17,10 @@ Welcome to Cyber Security Hub, where cyber security training providers and learn
 
 # Overview
 
-
 | Provider | Focus | No of Courses | Price Range | Topics | 
-|:---|:---|---|---|---|
-| Applied Network Defense | DE, SM, TH | 10-20 | Value | threat hunting, splunk, log analysis, detection engineering, sigma, honeypots, packet analysis, cyber chef, osquery, elk, security writing, regular expressions |
+| --- | --- | --- | --- | --- |
+| Applied Network Defense | DE, SM, TH | 10-20 |  Value | threat hunting, splunk, log analysis, detection engineering, sigma, honeypots, packet analysis, cyber chef, osquery, elk, security writing, regular expressions |
 | TryHackMe | PT, VR, DF, TH | 50+ | Budget | - |
-
 
 # Categories
 
@@ -52,9 +50,13 @@ Welcome to Cyber Security Hub, where cyber security training providers and learn
 | SH | Software Hardening |
 | SC | Secure Coding |
 
-## Price Ranges
+## Price Category
 
-- Budget (<100 USD per course or monthly subscription): very affordable options for those on a tight budget
-- Value (<500 USD per course or monthly subscription): affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point 
-- Premium (<2000 USD per course or monthly subscription): high-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise
-- Exclusive (>2000 USD per course or monthly subscription)): top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications
+| Price Category | Price\* | Description |
+|:---|:---|:---|
+| Budget | <100 USD | Very affordable options for those on a tight budget |
+| Value | <500 USD | Affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point |
+| Premium | <2000 USD | High-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise |
+| Exclusive | >2000 USD | Top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications |
+
+\* per course or monthly subscription
