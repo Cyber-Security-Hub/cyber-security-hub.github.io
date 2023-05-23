@@ -17,7 +17,42 @@ Welcome to Cyber Security Hub, where cyber security training providers and learn
 
 # Overview
 
-| Provider | Focus | No of Courses | Types | Price Range | Topics | 
-| --- | --- | --- | --- | --- | --- |
-| Applied Network Defense | Defense | 10-20 | Online | Value | threat hunting, splunk, log analysis, detection engineering, sigma, honeypots, packet analysis, cyber chef, osquery, elk, security writing, regular expressions |
-| TryHackMe | Offense / Defense | 50+ | Online | Budget | |
+| Provider | Focus | No of Courses | Price Range | Topics | 
+| --- | --- | --- | --- | --- |
+| Applied Network Defense | DE, SM, TH | 10-20 |  Value | threat hunting, splunk, log analysis, detection engineering, sigma, honeypots, packet analysis, cyber chef, osquery, elk, security writing, regular expressions |
+| TryHackMe | PT, VR, TH | 50+ |  | Budget | |
+
+# Categories
+
+## Focus
+
+### Offensive Security
+
+| Abbreviation | Meaning |
+| --- | --- |
+| PT | Penetration Testing |
+| VR | Vulnerability Research | 
+| RE | Reverse Engineering | 
+| RT | Red Teaming |
+
+### Defensive Security
+
+| Abbreviation | Meaning |
+| --- | --- |
+| DF | Digital Forensics |
+| IR | Incident Response |
+| DE | Detection Engineering | 
+| TH | Threat Hunting | 
+| MA | Malware Analysis | 
+| TI | Threat Intelligence |
+| DT | Deception Technology |
+| SM | Security Monitoring |
+| SH | Software Hardening |
+| SC | Secure Coding |
+
+## Price Ranges
+
+- Budget (<100 USD per course or monthly subscription): very affordable options for those on a tight budget
+- Value (<500 USD per course or monthly subscription): affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point 
+- Premium (<2000 USD per course or monthly subscription): high-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise
+- Exclusive (>2000 USD per course or monthly subscription)): top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications
