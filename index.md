@@ -15,21 +15,22 @@ Second, we aim to empower training providers by offering them increased visibili
 | Provider | Focus Topics | Courses | Price Category | Topics | YAML |
 | --- | --- | --- | --- | --- | --- |
 | [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | 🟨 Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
-| [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
-| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | Digital Forensics, Malware Analysis, Mobile Forensics, Linux Forensics | - | 
 | [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 41 | 🟩 Budget | Virtual environments, CVE analysis, APT, CrackMe, Cryptography, CTF, CompTIA, CySA+, CISSP, CEH, Compliance | - |
 | [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | 10 | 🟧 Premium | Reverse Engineering, Malware Analysis, Windows Incident Response, Security Operations, Threat Hunting, YARA, APTs, ICT, Suricata, Incident Response, Ghidra |
-| [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | NA🌎 | 50+ | 🟩 Budget | - | - |
 | [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖,  | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
-| [The Taggart Institute]([https://tryhackme.com/](https://taggartinstitute.org/)) | PT🪓, RT🔴, SM📡, TH🏹, OS🖥️ | 8 | 🟩 Budget |  Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
+| [The Taggart Institute](https://taggartinstitute.org/) | PT🪓, RT🔴, OS🖥️ | 8 | 🟩 Budget | Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
+
+## Unreviewed
+
+| Provider | Focus Topics | Courses | Price Category | Topics | YAML |
+| --- | --- | --- | --- | --- | --- |
+| [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
+| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | Digital Forensics, Malware Analysis, Mobile Forensics, Linux Forensics | - | 
+| [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
-
-## Unreviewed 
-
-
 
 # Categories
 
