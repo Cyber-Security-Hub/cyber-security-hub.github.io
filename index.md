@@ -4,9 +4,9 @@ Welcome to the Cyber Security Hub, a platform dedicated to promoting and connect
 
 In today's rapidly evolving digital landscape, the demand for skilled cyber security professionals is at an all-time high. At Cyber Security Hub, we believe that access to quality training is essential for individuals and organizations to thrive in this ever-changing field. That's why we've gathered an extensive directory of cyber security training providers, spanning various domains and expertise areas.
 
-Our platform serves two primary purposes. First, it acts as a one-stop destination for individuals seeking cyber security training opportunities. Whether you are a novice eager to enter the world of cyber security or a seasoned professional looking to expand your skill set, our community project provides you with a curated list of reputable training providers. You can explore their offerings, browse through different courses, and easily navigate to the provider's website for more detailed information.
+Our platform serves two primary purposes. First, it acts as a **one-stop destination for individuals seeking cyber security training opportunities**. Whether you are a novice eager to enter the world of cyber security or a seasoned professional looking to expand your skill set, our community project provides you with a curated list of reputable training providers. You can explore their offerings, browse through different courses, and easily navigate to the provider's website for more detailed information.
 
-Second, we aim to empower training providers by offering them increased visibility and exposure. By featuring their courses on our platform, we enable them to reach a wider audience and showcase their expertise. We believe in fostering collaboration and supporting the growth of the cyber security training community as a whole.
+Second, **we aim to empower training providers by offering them increased visibility and exposure**. By featuring their courses on our platform, we enable them to reach a wider audience and showcase their expertise. We believe in fostering collaboration and supporting the growth of the cyber security training community as a whole.
 
 # Overview
 
@@ -102,3 +102,7 @@ To contribute to Cyber Security Hub, simply perform the following steps.
 1. Add a `.yml` file to the sub folder `./trainings`. Please only use lower case characters for that file name and replace space characters ` ` with underscores `_`.
 2. Check the `training-schema.rx.yml` for all available fields and add as much information as possible.
 3. Edit the `index.md` file in the root folder and add a new line with basic information on the new provider to the `Unreviewed` table. (just copy and paste from the acronym tables below in order to get the right emojis)
+
+## Contact 
+
+Contact me on Twitter [@cyb3rops](https://twitter.com/cyb3rops)
