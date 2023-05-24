@@ -14,10 +14,10 @@ Welcome to Cyber Security Hub, where cyber security training providers and learn
 
 # Overview
 
-| Provider | Focus | Courses | Price Category | Topics |
-| --- | --- | --- | --- | --- |
-| [Applied Network Defense](https://www.networkdefense.co/) | DE, SM, TH | 10-20 |  Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions |
-| [TryHackMe](https://tryhackme.com/) | PT, VR, DF, TH | 50+ | Budget | - |
+| Provider | Focus | Courses | Price Category | Topics | YAML |
+| --- | --- | --- | --- | --- | --- |
+| [Applied Network Defense](https://www.networkdefense.co/) | DE, SM, TH | 10-20 |  Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
+| [TryHackMe](https://tryhackme.com/) | PT, VR, DF, TH | 50+ | Budget | - | - |
 
 # Categories
 
