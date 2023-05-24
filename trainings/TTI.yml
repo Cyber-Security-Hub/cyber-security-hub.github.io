@@ -1,0 +1,72 @@
+provider: The Taggart Institute
+website: https://taggartinstitute.org/
+price-category: budget
+previews-available: false
+discount-bulk-purchase: false
+trainings:
+   - title: Responsible Red Teaming
+     short-description: A course on the ethics, legality, and tactical considerations for red teaming activity.
+     description: | 
+      Many courses on red teaming will teach you the technical process of how to exploit targets. But seldom do courses cover what it means to carry out the role of a red teamer responsibly.
+      Responsible Red Teaming is a seminar on the ethical, legal, and tactical considerations of how to perform red team operations that are safe, responsible, and practical. 
+      It includes written lectures and practical labs centered on how we can emulate cybercriminals without introducing the risk of real cyber crime. This course asks you to think deeply 
+      about what it means to you to be a considerate, ethical, responsible red teamer. It will then show you how to translate responsibility into practical application and refine your 
+      tradecraft in the areas of C2 infrastructure design, malware emulation, and payload engineering. This is not a course that teaches you how to be a red teamer. 
+      It’s a course where you learn how to operate with honor.
+      tags: penetration testing, web hacking, red teaming
+
+   - title: Practical Threat Hunting
+     short-description: A course on navigating the concepts around binary exploitation
+     description: |
+      If you have a basic conceptual understanding of binary exploitation (specifically, stack-based buffer overflows) but aren't quite 100% sure what concepts like 
+      'ASLR', 'RELRO', 'PIE' or 'ROP' mean, this is the course for you. The goal of this guide is to give an overview of modern binary exploitation mitigations, 
+      why they were introduced and how they have been defeated. All in a practical and hands-on way.
+     tags: malware development
+    
+   - title: Intro to the Linux Command Line
+     short-description: An introduction to the Linux CLI
+     description: |
+      The Command Line Interface is the gateway to unlocking your computer's true potential—and yours, as a developer, security professional, or general technologist. 
+      This gentle introduction to the Linux command line prepares you to use this tool to make your work more efficient and lays the foundation for more advanced work in the 
+      terminal in later courses.
+     tags: operating systems
+     
+   - title: Python for Defenders pt 1
+     short-description: A blue team perspective on how to use Python
+     description: |
+      Adding Python programming to your defensive skillset makes you a formidable adversary. Whether it's vastly increasing the efficiency of common procedures, or adding new 
+      capabilities to the entire team, Python in Jupyter Notebooks completely transforms what's possible for a security operations team. Become the defender who can use use 
+      these skills to your advantage. This first section of the two-part Python for Defenders course is offered for free. Part 2 will build on these skills to produce real-world 
+      tools to assist professional cyber defenders.
+     tags: incident response, security hardening, security monitoring
+     
+   - title: Python for Defenders pt 2
+     short-description: An intermediate to advanced course on a blue team perspective on how to use Python
+     description: |
+      So you've learned the basics of Python and Jupyter and you're ready to go further. You're ready to take the next step and learn how to use these tools for what they're best at: 
+      data analysis. By pointing the tools of data science at the sorts of files and telemetry used in cyber defense, you'll vastly increase your (and your team's) ability to detect 
+      and respond to threats. From importing and parsing data to visualizing large amounts of log events, this course prepares you to dive into your data to find exactly what you need, 
+      and build repeatable processes that your team can use as both documentation and active tooling.
+     tags: incident response, security hardening, security monitoring
+     
+   - title: Vim for Everyone
+     short-description: An introduction to using Vim
+     description: |
+      Most people just want to know how to quit Vim. But if you master its usage, a new world of text processing opens up to you. This powerful tool can become an integral part of many IT workflows, 
+      from software development to cybersecurity. Vim has been in the utility belt of hackers for decades. Isn't it time you found out why?
+     tags:
+     
+   - title: Creating with Git
+     short-description: A guide on using Git in the CLI
+     description: |
+      Isn't it time you learned this essential tool for project management? No longer fear the words "merge conflict." Branch with grace and ease. These are within your grasp. 
+      This course provides you what you need to use Git intelligently to manage projects and publish documentation for any subject imaginable.
+     tags: 
+     
+   - title: Intro to Regular Expressions
+     short-description: A beginner guide on using REGEX
+     description: |
+      This brief introduction to regular expressions is intended to prepare you to use regexes for practical, everyday applications. This course is self-paced, and mostly self-graded. 
+      It's up to you to determine whether you've mastered the skills and concepts introduced, but there is help and feedback available!
+     tags:
+     
