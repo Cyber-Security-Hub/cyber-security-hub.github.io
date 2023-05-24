@@ -27,10 +27,15 @@ Second, we aim to empower training providers by offering them increased visibili
 
 | Provider | Focus Topics | Courses | Price Category | Topics | YAML |
 | --- | --- | --- | --- | --- | --- |
-| [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
 | [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | Digital Forensics, Malware Analysis, Mobile Forensics, Linux Forensics | - | 
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
+
+## Announced
+
+| Provider | Focus Topics | Courses | Price Category | Topics | YAML |
+| --- | --- | --- | --- | --- | --- |
+| [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
 
 # Categories
 
