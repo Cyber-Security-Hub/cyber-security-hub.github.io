@@ -12,12 +12,12 @@ Second, we aim to empower training providers by offering them increased visibili
 
 | Provider | Focus Topics | Courses | Price Category | Topics | YAML |
 | --- | --- | --- | --- | --- | --- |
-| [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
-| [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | Budget | - | - |
-| [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 50+ | Budget | - | - |
-| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | ? | Premium | - | 
-| [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | Value | - | - |
-| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | Premium | - | - | 
+| [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | 🟨 Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
+| [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | 🟩 Budget | - | - |
+| [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 50+ | 🟩 Budget | - | - |
+| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | ? | 🟧 Premium | - | 
+| [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | 🟨 Value | - | - |
+| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | - | - | 
 | [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
 
 # Categories
@@ -54,9 +54,9 @@ Second, we aim to empower training providers by offering them increased visibili
 
 | Price Category | Price\* | Description |
 |:---|:---|:---|
-| Budget | <100 USD | Very affordable options for those on a tight budget |
-| Value | <500 USD | Affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point |
-| Premium | <2000 USD | High-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise |
-| Exclusive | >2000 USD | Top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications |
+| Budget 🟩 | <100 USD | Very affordable options for those on a tight budget |
+| Value 🟨 | <500 USD | Affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point |
+| Premium 🟧 | <2000 USD | High-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise |
+| Exclusive 🟥 | >2000 USD | Top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications |
 
 \* per course or monthly subscription
