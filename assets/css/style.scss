@@ -3,13 +3,6 @@
 
 @import "{{ site.theme }}";
 
-// test
-.main-content {
-    h1 {
-     color: #ff0000;
-   }
-  }
-
 .wrapper {
     max-width: calc(1000px - (30px * 2));
 }
