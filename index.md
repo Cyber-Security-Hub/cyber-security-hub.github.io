@@ -86,3 +86,19 @@ Second, we aim to empower training providers by offering them increased visibili
 | 🟥 Exclusive | >2000 USD | Top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications |
 
 \* per course or monthly subscription
+
+## Contribute
+
+To contribute to Cyber Security Hub, simply perform the following steps. 
+
+### How to create a Pull Request
+
+1. Fork the repository
+2. Make changes to the forked repository either by a.) cloning it and working locally (e.g. using the Github client or any other git client) or b.) editing / adding files using the online editor provided by Github
+3. Create a Pull Request where your fork is the source and our repository the target
+
+### Required Additions
+
+1. Add a `.yml` file to the sub folder `./trainings`. Please only use lower case characters for that file name and replace space characters ` ` with underscores `_`.
+2. Check the `training-schema.rx.yml` for all available fields and add as much information as possible.
+3. Edit the `index.md` file in the root folder and add a new line with basic information on the new provider to the `Unreviewed` table. (just copy and paste from the acronym tables below in order to get the right emojis)
