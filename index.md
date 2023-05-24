@@ -75,7 +75,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | --- | --- |
 | NA🌎 | No recognizable focus |  
 | NT🛜 | Networking |
-| OS🖥️ | Operating Systems |
+| OS🖥️ | Operating Systems and Tools |
 | MC🧭 | Management and Compliance |
 
 ## Price Category
