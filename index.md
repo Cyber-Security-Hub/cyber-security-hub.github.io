@@ -21,7 +21,7 @@ Second, we aim to empower training providers by offering them increased visibili
 | [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖,  | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
 | [The Taggart Institute](https://taggartinstitute.org/) | PT🪓, RT🔴, OS🖥️ | 8 | 🟩 Budget | Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
-| [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
+| [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | [YAML](./trainings/xintra.yml)  | 
 
 ## Unreviewed
 
