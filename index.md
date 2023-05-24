@@ -14,11 +14,11 @@ Second, we aim to empower training providers by offering them increased visibili
 | --- | --- | --- | --- | --- | --- |
 | [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | 🟨 Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
 | [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
-| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | - | - | 
-| [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 50+ | 🟩 Budget | - | - |
+| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | Digital Forensics, Malware Analysis, Mobile Forensics, Linux Forensics | - | 
+| [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 41 | 🟩 Budget | Virtual environments, CVE analysis, APT, CrackMe, Cryptography, CTF, CompTIA, CySA+, CISSP, CEH, Compliance | - |
 | [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | 10 | 🟧 Premium | Reverse Engineering, Malware Analysis, Windows Incident Response, Security Operations, Threat Hunting, YARA, APTs, ICT, Suricata, Incident Response, Ghidra |
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
-| [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | - | 50+ | 🟩 Budget | - | - |
+| [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | NA🌎 | 50+ | 🟩 Budget | - | - |
 | [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
@@ -53,13 +53,22 @@ Second, we aim to empower training providers by offering them increased visibili
 | SH💎 | System Hardening |
 | SC🔐 | Secure Coding |
 
+### Other
+
+| Acronym | Meaning |
+| --- | --- |
+| NA🌎 | No recognizable focus |  
+| NT🛜 | Networking |
+| OS🖥️ | Operating Systems |
+| MC🧭 | Management and Compliance |
+
 ## Price Category
 
 | Price Category | Price\* | Description |
 |:---|:---|:---|
-| Budget 🟩 | <100 USD | Very affordable options for those on a tight budget |
-| Value 🟨 | <500 USD | Affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point |
-| Premium 🟧 | <2000 USD | High-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise |
-| Exclusive 🟥 | >2000 USD | Top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications |
+| 🟩 Budget | <100 USD | Free or very affordable options for those on a tight budget |
+| 🟨 Value | <500 USD | Affordable courses; solid value for your investment, offering comprehensive content and practical skills at a reasonable price point |
+| 🟧 Premium | <2000 USD | High-quality, in-depth training, often with advanced features, personalized support, and expert-led instruction, providing a deeper level of knowledge and expertise |
+| 🟥 Exclusive | >2000 USD | Top-tier category designed for organizations or individuals looking for bespoke, tailored training solutions. These offerings may include custom training environments, hands-on simulations, dedicated coaching, and specialized certifications |
 
 \* per course or monthly subscription
