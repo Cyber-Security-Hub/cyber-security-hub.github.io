@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+    max-width: calc(1000px - (30px * 2));
+}
+
+table th { 
+    min-width: 180px;
+}
+
+table td { 
+    vertical-align: top;
+}
