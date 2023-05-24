@@ -21,9 +21,11 @@ Second, we aim to empower training providers by offering them increased visibili
 | [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | 10 | 🟧 Premium | Reverse Engineering, Malware Analysis, Windows Incident Response, Security Operations, Threat Hunting, YARA, APTs, ICT, Suricata, Incident Response, Ghidra |
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | NA🌎 | 50+ | 🟩 Budget | - | - |
-| [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
+| [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖,  | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
+| [The Taggart Institute]([https://tryhackme.com/](https://taggartinstitute.org/)) | PT🪓, RT🔴, SM📡, TH🏹, OS🖥️ | 8 | 🟩 Budget |  Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
+| [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
 
 ## Unreviewed 
 
