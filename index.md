@@ -23,6 +23,7 @@ Second, we aim to empower training providers by offering them increased visibili
 | [The Taggart Institute]([https://tryhackme.com/](https://taggartinstitute.org/)) | PT🪓, RT🔴, SM📡, TH🏹, OS🖥️ | 8 | 🟩 Budget |  Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
+| [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
 
 # Categories
 
