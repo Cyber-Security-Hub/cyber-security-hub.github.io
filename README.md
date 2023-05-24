@@ -15,7 +15,7 @@ Second, we aim to empower training providers by offering them increased visibili
 | [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | Budget | - | - |
 | [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 50+ | Budget | - | - |
-| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA, DF, RE, DE🧰 | ? | Premium | - | 
+| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | ? | Premium | - | 
 | [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | Value | - | - |
 | [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | Premium | - | - | 
 | [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
