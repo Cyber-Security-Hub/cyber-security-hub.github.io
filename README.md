@@ -8,16 +8,17 @@ Our platform serves two primary purposes. First, it acts as a one-stop destinati
 
 Second, we aim to empower training providers by offering them increased visibility and exposure. By featuring their courses on our platform, we enable them to reach a wider audience and showcase their expertise. We believe in fostering collaboration and supporting the growth of the cyber security training community as a whole.
 
-Whether you are on a quest to enhance your cyber security skills or you are a training provider eager to expand your reach, Cyber Security Hub is here to support you. We invite you to embark on this collaborative journey with us, explore the vast array of training opportunities, and become part of our vibrant community.
-
-Welcome to Cyber Security Hub, where cyber security training providers and learners come together to foster growth, knowledge sharing, and professional advancement.
-
 # Overview
 
 | Provider | Focus | Courses | Price Category | Topics | YAML |
 | --- | --- | --- | --- | --- | --- |
-| [Applied Network Defense](https://www.networkdefense.co/) | DE, SM, TH | 10-20 |  Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
-| [TryHackMe](https://tryhackme.com/) | PT, VR, DF, TH | 50+ | Budget | - | - |
+| [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
+| [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | Budget | - | - |
+| [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 50+ | Budget | - | - |
+| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA, DF, RE, DE🧰 | ? | Premium | - | 
+| [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | Value | - | - |
+| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | Premium | - | - | 
+| [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
 
 # Categories
 
@@ -27,25 +28,27 @@ Welcome to Cyber Security Hub, where cyber security training providers and learn
 
 | Acronym | Meaning |
 | --- | --- |
-| PT | Penetration Testing |
-| VR | Vulnerability Research | 
-| RE | Reverse Engineering | 
-| RT | Red Teaming |
+| PT🪓 | Penetration Testing |
+| WH🕸️ | Web Hacking |
+| VR🧨 | Vulnerability Research | 
+| RE🔬 | Reverse Engineering | 
+| RT🔴 | Red Teaming |
+| MD🤖 | Malware Development |
 
 ### Defensive Security
 
 | Acronym | Meaning |
 | --- | --- |
-| DF | Digital Forensics |
-| IR | Incident Response |
-| DE | Detection Engineering | 
-| TH | Threat Hunting | 
-| MA | Malware Analysis | 
-| TI | Threat Intelligence |
-| DT | Deception Technology |
-| SM | Security Monitoring |
-| SH | Software Hardening |
-| SC | Secure Coding |
+| DF🔍 | Digital Forensics |
+| IR🪖 | Incident Response |
+| DE🧰 | Detection Engineering | 
+| TH🏹 | Threat Hunting | 
+| MA😈 | Malware Analysis | 
+| TI🗺️ | Threat Intelligence |
+| DT🪤 | Deception Technology |
+| SM📡 | Security Monitoring |
+| SH💎 | System Hardening |
+| SC🔐 | Secure Coding |
 
 ## Price Category
 
