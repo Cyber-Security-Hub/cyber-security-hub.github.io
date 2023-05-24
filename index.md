@@ -20,7 +20,7 @@ Second, we aim to empower training providers by offering them increased visibili
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | NA🌎 | 50+ | 🟩 Budget | - | - |
 | [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
-| [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | 🟩 Budget | - | - |
+| [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
 
 # Categories
