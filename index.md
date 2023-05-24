@@ -1,3 +1,5 @@
+![title_image](./assets/img/cyber-security-hub.jpg)
+
 # Introduction
 
 Welcome to the Cyber Security Hub, a platform dedicated to promoting and connecting cyber security training providers from around the world! Our community project aims to serve as a comprehensive resource hub, providing an overview of the diverse range of courses offered by these providers while offering them increased visibility and recognition.

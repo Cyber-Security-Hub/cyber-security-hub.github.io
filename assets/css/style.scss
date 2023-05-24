@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+
+// this didn't work 
+// yes, all this down here
 .wrapper {
     max-width: calc(1000px - (30px * 2));
 }
