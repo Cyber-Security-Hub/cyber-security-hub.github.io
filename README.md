@@ -10,7 +10,7 @@ Second, we aim to empower training providers by offering them increased visibili
 
 # Overview
 
-| Provider | <div style="width:100px">Focus</div> | Courses | Price Category | Topics | YAML |
+| Provider | Focus Topics | Courses | Price Category | Topics | YAML |
 | --- | --- | --- | --- | --- | --- |
 | [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 50+ | Budget | - | - |
