@@ -10,6 +10,8 @@ Second, we aim to empower training providers by offering them increased visibili
 
 # Overview
 
+## Reviewed
+
 | Provider | Focus Topics | Courses | Price Category | Topics | YAML |
 | --- | --- | --- | --- | --- | --- |
 | [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | 🟨 Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
@@ -22,6 +24,10 @@ Second, we aim to empower training providers by offering them increased visibili
 | [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖 | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | - | 
+
+## Unreviewed 
+
+
 
 # Categories
 
