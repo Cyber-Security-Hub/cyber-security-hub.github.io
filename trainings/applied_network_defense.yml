@@ -1,0 +1,24 @@
+provider: Applied Network Defense
+website: https://www.networkdefense.co/
+price-category: value
+previews-available: true
+access-period: 6 months
+discount-bulk-purchase: true
+trainings:
+   - title: Investigation Theory
+     short-description: Learn the process of conducting security investigations regardless of the toolset.
+     description: | 
+      A simple investigation framework to ensure you’ll never get stuck or overwhelmed by data when pursuing leads.
+      The characteristics of evidence and which sources will provide the most value.
+      A formula for building investigation playbooks that will help you get to the right conclusion faster and consistently.
+      Useful techniques for building timelines, making threat hunting observations, and optimizing your workflow through the principle of mise en place.
+     tags: security monitoring, analyst mindset
+   - title: Practical Threat Hunting
+     short-description: A structured system to ensure you’re never at a loss for what to hunt for, where to find it, and how to see it amongst the noise.
+     description: |
+      Two ways to get started: attack-based hunting (ABH) and data-based hunting (DBH) techniques for leveraging threat intelligence and the MITRE ATT&CK framework for hunting input
+      The 9 most common types of anomalies you’ll encounter when reviewing evidence
+      A 5-step framework for dissecting and simulating attacks to prepare for hunting expeditions
+      The 4 ways threat hunters most commonly transform data to spot anomalies
+      My two-step system for effective note taking while hunting
+     tags: threat-hunting, security monitoring
