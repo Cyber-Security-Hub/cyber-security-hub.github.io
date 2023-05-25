@@ -4,6 +4,7 @@ price-category: premium
 previews-available: true
 access-period: forever
 discount-bulk-purchase: true
+focus:
 trainings:
    - title: Attacking and Defending Azure & M365
      short-description: An in-depth course covering attack techniques, detection, forensics and mitigation on Azure and Microsoft 365.

@@ -40,9 +40,9 @@ Second, **we aim to empower training providers by offering them increased visibi
 | --- | --- | --- | --- | --- | --- |
 | [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
 
-# Categories
+# Explanations
 
-## Focus
+## Focus Topics
 
 ### Offensive Security
 
@@ -79,7 +79,18 @@ Second, **we aim to empower training providers by offering them increased visibi
 | OS🖥️ | Operating Systems and Tools |
 | MC🧭 | Management and Compliance |
 
-## Price Category
+## Values in the YAML files
+
+### Name
+
+The name of the training provider.
+
+### Website
+
+- The website of the training provider
+- A URL linking to a sub page listing available trainings (e.g. see Kaspersky)
+
+### Price Category
 
 | Price Category | Price\* | Description |
 |:---|:---|:---|
@@ -90,7 +101,44 @@ Second, **we aim to empower training providers by offering them increased visibi
 
 \* per course or monthly subscription
 
-## Contribute
+### Previews Available
+
+Preview means the availability of actual course content in a form in which is is offered after the purchase. It includes, e.g.:
+
+- Video-based trainings: freely accessible subchapters as videos
+- Lab-based trainings: Example exercise and a video or a demo instance that can be accessed
+
+It does NOT include, e.g.:
+
+- Video-based trainings: text abstract or screenshots of slides
+- Lab-based trainings: screenshots of the lab environment or slides
+
+### Preview URL
+
+A direct link to one of the previews.
+
+### Discount on Bulk Purchases
+
+Indicates whether the purchase of multiple trainings is eligible for a discount.
+
+### Focus Area
+
+"Focus area" refers to the specific subject or topic of expertise offered by online training providers. It highlights the main area of concentration or specialization in their course offerings.
+See the category "Focus Area". Don't use the emojis in the YAML files.
+Use at maximum 4 focus areas. If a person is required to select more than four focus areas, it means that they won't have a specific focus area at all and the field should be removed (leave it empty `-` in the overview list).
+
+### Trainings
+
+- Name: title of the training
+- Short-Description: a short description of the training using less than 256 characters. 
+- Description: a long description of the training using less than 4096 characters.
+- Tags: keywords related to the contents of the training
+- Price: the price of the training
+- Duration: the approximate time it takes to complete the training in hours
+- With-Labs: indicates of the training contains hands-on labs
+- Type: indicates the type of the training (see schema for available values)
+
+## Contributions
 
 To contribute to Cyber Security Hub, simply perform the following steps. 
 
