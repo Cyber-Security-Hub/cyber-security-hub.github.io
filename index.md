@@ -33,6 +33,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨, RE🔬, MD🤖 | 3 | 🟥 Exclusive | Vulnerability Research, Reverse Engineering, Offensive Tool Development | [YAML](./trainings/signal_labs.yml) |
+| [BlackPerl DFIR](https://academy.blackperldfir.com/learn) | IR🪖, DF🔍, TH🏹,MA😈  | 6 | 🟩 Budget | Incident Response, Digital Forensics, Threat Hunting, Malware Analysis | [YAML](./trainings/blackperl_dfir.yml)  |
 
 ## Announced
 
