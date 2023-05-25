@@ -32,6 +32,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | Digital Forensics, Malware Analysis, Mobile Forensics, Linux Forensics | - | 
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
+| [Signal Labs](https://signal-labs.com/) | VR🧨, RE🔬, MD🤖 | 3 | 🟥 Exclusive | Vulnerability Research, Reverse Engineering, Offensive Tool Development | [YAML](./trainings/signal_labs.yml) |
 
 ## Announced
 
