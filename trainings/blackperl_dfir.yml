@@ -1,0 +1,19 @@
+provider: BlackPerl DFIR
+website: https://academy.blackperldfir.com/learn/
+price-category: budget
+previews-available: true
+discount-bulk-purchase: true
+trainings:
+   - title: Blue Teaming
+     short-description: We provide end to end Blue Team training from absolote 101 level. We focus on topics- DFIR, Security Engineering, Malware Analysis, Threat Hunting
+     description: | 
+      We have a number of courses designed for the security analysts to level up their game in- DFIR, Security Engineering, Malware Analysis, Threat Hunting. Currently we have 6 self-paced training and more are in pipeline for Cloud IR, Malware Analysis, Threat Hunt as well.
+      We want to make quality education affordable to all with self pased learning model which also includes real life hands-on lab exercise with certification.
+      tags: vulnerability research, fuzzing, windows
+     preview-urls: 
+      - https://academy.blackperldfir.com/learn/
+      - https://www.youtube.com/c/BlackPerl
+     price: 12USD - 54USD
+     type:
+      - self-paced
+      - live
