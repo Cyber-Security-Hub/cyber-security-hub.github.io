@@ -30,7 +30,7 @@ trainings:
      price: 647 USD
      type:
       - self-paced
-    - title: Detection Engineering with Sigma
+   - title: Detection Engineering with Sigma
      short-description: Learn how to write and tune Sigma rules to find evil in logs using real-world examples that take you through the detection engineering process.
      description: | 
       Learn the detection engineering process from initial detection gap identification to deploying your rule into production.
@@ -60,7 +60,7 @@ trainings:
      price: 397 USD
      type:
       - self-paced
-     - title: Building Intrusion Detection Honeypots
+   - title: Building Intrusion Detection Honeypots
      short-description: Intrusion Detection Honeypots rely on deception to trick attackers into interacting with fake systems, services, and data. In this class, you’ll get hands-on experience designing, building, deploying, and monitoring honeypots to detect network adversaries before they accomplish their goals.
      description: | 
       Use the See-Think-Do framework to integrate honeypots into your network and lure attackers into your traps. If you control what the attacker sees and thinks, you can control their actions. This strategy is the key to deceptive defense. 
