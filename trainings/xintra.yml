@@ -9,6 +9,15 @@ trainings:
    - title: Attacking and Defending Azure & M365
      short-description: An in-depth course covering attack techniques, detection, forensics and mitigation on Azure and Microsoft 365.
      tags: Azure, M356, Forensics, Cloud, Attack, Evasion
+     preview-urls:
+      - https://training.xintra.org/view/courses/attacking-and-defending-azure-m365/1721142-1-introduction/5445699-introduction
+      - https://training.xintra.org/view/courses/attacking-and-defending-azure-m365/1721164-9-privilege-escalation/5445794-attack-abusing-cloud-administrator
+      - https://training.xintra.org/view/courses/attacking-and-defending-azure-m365/1651847-7-credential-theft/5442878-detect-skeleton-keys-pta-abuse
+     duration: 18
+     price: 1550 USD
+     type:
+      - self-paced
+      - live
    - title: Reversing and Exploiting iOS (ARM64)
      short-description: This course covers exploitation against iOS (arm64) covering stack based exploitation, integer overflows and heap-based exploitation.
      tags: ARM, ARM64, Exploitation, Reverse Engineering

@@ -13,3 +13,8 @@ trainings:
        C-based vulnerabilities and writing successful exploits. Lab challenges offer real-time feedback and powerful introspection collects detailed analytics. 
        Learning is paced and broken down into manageable chunks, with gamified checkpoints to encourage active learning. 
       tags: Vulnerability Research, Reverse Engineering
+      preview-urls:
+        - https://wargames.ret2.systems/levels
+      price: 1299 USD
+      type:
+        - self-paced

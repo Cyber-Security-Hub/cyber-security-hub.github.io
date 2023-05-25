@@ -10,6 +10,12 @@ trainings:
       This course is a complete introduction to finding 0-days on Windows, covering static & dynamic manual approaches alongside state-of-the-art snapshot fuzzing techniques with multiple walkthroughs of real live 0-days.
       Includes both memory corruption style bugs & logic bugs.
       tags: vulnerability research, fuzzing, windows
+     preview-urls: 
+      - https://youtu.be/jSXjc1QO5G4
+     price: 3100 USD
+     type:
+      - self-paced
+      - live
 
    - title: Offensive Tool Development
      short-description: Windows-focused course on modern custom C2, implant & post-exploitation techniques developed from scratch leveraging Rust.
@@ -17,10 +23,36 @@ trainings:
       This course covers custom tool development for offensive security campaigns at the user, kernel and hypervisor levels. 
       Write your own custom code in Rust from scratch, covering both the high-level design of our code to complete guided walkthroughs of our custom code development process, including our own Rust-based COFF loaders, anti-EDR modules, C2 server and agents, kernel rootkits, hypervisor implants and more.
      tags: offensive tool development, rust, windows
+     preview-urls: 
+      - https://youtu.be/1ZZws60kJJs
+     price: 3200 USD
+     type:
+      - self-paced
+      - live
     
    - title: Reverse Engineering
      short-description: Real-world reverse engineering applied to closed-source user and kernel targets, covering beginner and advanced topics including custom deobfuscation routine development in Rust.
      description: |
       In addition to the more expected Reverse Engineering content you also learn the underlying environment binaries operate on (x86-64, Boot process (UEFI|BIOS), PE32/32+ formats, Page Table concepts & Kernel/Hypervisor) alongside actual exercises in writing your own Kernel drivers and working with Rust.
      tags: operating systems, reverse engineering, Windows
+     preview-urls: 
+      - https://youtu.be/7sy-qAOj3ac
+     price: 2949 USD
+     type:
+      - self-paced
+      - live
+
+   - title: Hypervisor Internals
+     short-description: Dive into modern x86-64 hypervisors via a mixture of reverse engineering, source code review and our own custom code.
+     description: | 
+      Walkthrough not only the high-level designs of hypervisors but also the low-level 
+      logic and hardware primitives that drive them, utilizing our own custom code for 
+      dynamic analysis, including creating a custom OS from scratch in Rust and triggering 
+      a hypervisor N-day.
+     preview-urls: 
+      - https://youtu.be/NnxIvD8wRVs
+     price: 500 USD
+     type:
+      - self-paced
+      - live
      
