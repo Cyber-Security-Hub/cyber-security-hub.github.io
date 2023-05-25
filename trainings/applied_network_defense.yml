@@ -13,6 +13,10 @@ trainings:
       A formula for building investigation playbooks that will help you get to the right conclusion faster and consistently.
       Useful techniques for building timelines, making threat hunting observations, and optimizing your workflow through the principle of mise en place.
      tags: security monitoring, analyst mindset
+     duration: 30
+     price: 647 USD
+     type:
+      - self-paced
    - title: Practical Threat Hunting
      short-description: A structured system to ensure you’re never at a loss for what to hunt for, where to find it, and how to see it amongst the noise.
      description: |
@@ -22,3 +26,63 @@ trainings:
       The 4 ways threat hunters most commonly transform data to spot anomalies
       My two-step system for effective note taking while hunting
      tags: threat-hunting, security monitoring
+     duration: 22
+     price: 647 USD
+     type:
+      - self-paced
+    - title: Detection Engineering with Sigma
+     short-description: Learn how to write and tune Sigma rules to find evil in logs using real-world examples that take you through the detection engineering process.
+     description: | 
+      Learn the detection engineering process from initial detection gap identification to deploying your rule into production.
+      Write your own detection rules using familiar log sources like Windows Events, Zeek Logs, Sysmon Logs, AWS CloudTrail logs, and more.
+      Understand the structure of Sigma rules, including the difference between lists and maps, how condition expressions work, and all the essential metadata that’ll be useful for investigating alerts it generates.
+      Utilize a rule development environment using the SOC Prime Sigma UI plugin for Kibana to develop rules with a graphical editor and use the Sigma command-line tools.
+      Leverage Sigmac to convert rules to popular investigation and detection tool formats like Splunk, Kibana, and others.
+      Learn to write resilient rules that find more evil, stand the test of time, and cause headaches for adversaries.
+      Operationalize your Sigma knowledge by learning how to manage your custom ruleset with Git and share your rules.
+     tags: security monitoring, analyst mindset
+     duration: 15
+     price: 397 USD
+     type:
+      - self-paced
+   - title: Osquery for Security Analysis
+     short-description: Level up your host-based investigation skills with one of the best tools for the job.
+     description: |
+      How to craft SQL queries to interrogate Windows, Linux, and MacOS hosts
+      Common queries for performing software inventory and asset control
+      Strategies for interrogating processes to determine if they are malicious
+      Techniques for uncovering persistence and lateral movement
+      Triaging suspicious systems using high-value data tables
+      Hunting leveraging MITRE ATT&CK techniques
+      Complete deployment of distributed Osquery across your network using FleetDM and ElasticStack
+     tags: threat-hunting, security monitoring
+     duration: 12
+     price: 397 USD
+     type:
+      - self-paced
+     - title: Building Intrusion Detection Honeypots
+     short-description: Intrusion Detection Honeypots rely on deception to trick attackers into interacting with fake systems, services, and data. In this class, you’ll get hands-on experience designing, building, deploying, and monitoring honeypots to detect network adversaries before they accomplish their goals.
+     description: | 
+      Use the See-Think-Do framework to integrate honeypots into your network and lure attackers into your traps. If you control what the attacker sees and thinks, you can control their actions. This strategy is the key to deceptive defense. 
+      Leverage honey services that mimic HTTP, SSH, and RDP and alert you when attackers attempt to connect to them.
+      Hide honey tokens and web bugs in office documents. When attackers interact open them, you’ll know they’re on the network.
+      Embed honey credentials in services and memory so that attackers will find and attempt to use them. You’ll leverage various forms of authentication monitoring to know when this happens. 
+      Build deception-based defenses against common attacks like Kerberoasting and LLMNR spoofing
+     tags: security monitoring, analyst mindset
+     duration: 15
+     price: 497 USD
+     type:
+      - self-paced
+   - title: CyberChef for Security Analysts
+     short-description: You can use CyberChef to answer the data questions you have, whether you’re a digital forensic analyst, incident responder, threat hunter, or malware reverse engineer. In this class, you’ll get hands-on experience in this master class on deobfuscation and data manipulation using the most powerful and flexible tool for the job.
+     description: |
+      Speed up the most common forensic data manipulations like extracting indicators from threat intel reports, identifying and decoding XOR’d data, and converting timestamps
+      Learn dozens of techniques for decoding common malware obfuscation techniques in JavaScript, PowerShell, VBScript, and more
+      Parse and manipulate commonly encountered indicators like IP addresses, domain names, and file hashes along with data formats like XML and JSON
+      Build repeatable recipes that you can share with your peers to automate data manipulation
+      Learn the basic and advanced techniques offered by CyberChef and see why so many skilled analysts keep CyberChef in an open tab at all times
+     tags: threat-hunting, security monitoring
+      duration: 15
+     price: 397 USD
+     type:
+      - self-paced
