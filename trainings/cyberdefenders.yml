@@ -1,0 +1,28 @@
+provider: CyberDefenders
+website: https://cyberdefenders.org/
+price-category: Premium
+previews-available: false
+access-period: 4 months
+discount-bulk-purchase: true
+focus-area: 
+  - DF
+  - DE
+  - TI
+  - TH
+trainings:
+   - title: Certified CyberDefender (CCD)
+     short-description: CCD is a vendor-neutral, hands-on cybersecurity training and certification. It is designed to prepare the next generation of SOC analysts, security blue teams, threat hunters, and DFIR professionals.
+     description: | 
+     This training introduces you to real-world threats defenders experience in their networks and the tools used to defend against them. You will learn defense strategies, threat-hunting techniques, adversary detection, and how to investigate security intrusions and perform forensic analysis.
+     tags: Digital Forensics, Threat Hunting, Incident Response, Permieter Defense, Security Operations, Threat intel, Malware Analysis
+     duration: 180
+     price: 800 USD
+     with-labs: true
+     type:
+      - self-paced
+   - title: BlueYard - Blue Team CTF Challenges
+     short-description: BlueYard is is a community initiative to collect quality Blue Team challenges in one place to make it easier for defenders to practice with quality resources and make these challenges live forever.
+     tags: Digital Forensics, Threat Hunting, Incident Response, Permieter Defense, Security Operations, Threat intel, Malware Analysis
+     price: free
+     type:
+      - self-paced
