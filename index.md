@@ -33,7 +33,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [YAML](./trainings/RET2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [YAML](./trainings/signal_labs.yml) |
-| [CyberDefenders](https://cyberdefenders.org/) | DF🔍 DE🧰 TH🏹 TI🗺️ | 1 | 🟧 Premium | Disk forensics, Memory Forensics, Network Forensics, Velociraptor, Email Security, Canary Tokens, ELK, OSSEC, RITA, USB Forensics, GoPhish, Sysmon, Vulnerability Managment, Sentinel, Suricata, Phishing Attacks | [YAML](./trainings/cyberdefenders.org.yml) |
+| [CyberDefenders](https://cyberdefenders.org/) | DF🔍 DE🧰 TH🏹 TI🗺️ | 1 | 🟧 Premium | Disk forensics, Memory Forensics, Network Forensics, Velociraptor, Email Security, Canary Tokens, ELK, OSSEC, RITA, USB Forensics, GoPhish, Sysmon, Vulnerability Managment, Sentinel, Suricata, Phishing Attacks | [YAML](./trainings/cyberdefenders.yml) |
 
 ## Announced
 
