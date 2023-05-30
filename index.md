@@ -30,11 +30,11 @@ Second, **we aim to empower training providers by offering them increased visibi
 | Provider | Focus Topics | Courses | Price Category | Keywords | YAML |
 | --- | --- | --- | --- | --- | --- |
 | [binary-offensive.com](https://binary-offensive.com/initial-access-training) | RT🔴 PT🪓 | 1 | 🟧 Premium | Mythic, C2, Evasion, Maldocs, MSI, HTML Smuggling, Infection Chains, PE Backdooring, Obfuscation, Shell Code Loaders | [Trainings](./trainings/binary_offensive.yml) |
+| [BlackPerl DFIR](https://academy.blackperldfir.com/learn) | IR🪖, DF🔍, TH🏹 | 6 | 🟩 Budget | Incident Response, Digital Forensics, Threat Hunting, Malware Analysis | [YAML](./trainings/blackperl_dfir.yml)  |
 | [Cyber5W](https://cyber5w.com/) | DF🔍 MA😈 | 5 | 🟧 Premium | Data recovery, carving, Anti-Forensics, File System, Caches, Artifacts | - |
 | [CyberDefenders](https://cyberdefenders.org/) | DF🔍 DE🧰 TH🏹 | 1 | 🟧 Premium | Disk forensics, Memory Forensics, Network Forensics, Velociraptor, Email Security, Canary Tokens, ELK, OSSEC, RITA, USB Forensics, GoPhish, Sysmon, Vulnerability Management, Sentinel, Suricata, Phishing Attacks | [YAML](./trainings/cyberdefenders.yml) |
 | [Nexus InfoSec](https://nexusinfosec.podia.com/) | RT🔴 PT🪓 | 1 | 🟧 Premium | Kali Linux, Nessus, Nmap, Port Scanning, OpenVAS, Metasploit, Bloodhound, Kerberoasting, PowerView, Adversary Emulation, OPSEC, MITRE ATT&CK, Obfuscation | [Trainings](./trainings/adversary_cyber_security_expert.yml) |
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
-| [BlackPerl DFIR](https://academy.blackperldfir.com/learn) | IR🪖, DF🔍, TH🏹, MA😈 | 6 | 🟩 Budget | Incident Response, Digital Forensics, Threat Hunting, Malware Analysis | [YAML](./trainings/blackperl_dfir.yml)  |
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
 
