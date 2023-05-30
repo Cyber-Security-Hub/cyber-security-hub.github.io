@@ -21,9 +21,8 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈 DF🔍 RE🔬 DE🧰 | 10 | 🟧 Premium | Reverse Engineering, Malware Analysis, Windows Incident Response, Security Operations, Threat Hunting, YARA, APTs, ICT, Suricata, Incident Response, Ghidra |
 | [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | NA🌎 | 50+ | 🟩 Budget | - | - |
 | [Sektor7](https://institute.sektor7.net/) | RT🔴 PT🪓 MD🤖 | 6 | 🟨 Value | API hooking, 32-/64-bit Migrations, Reflective Binaries, Cobalt Strike, COFFs, Rootkit, OST, Evasion, Persistence, Privilege Escalation,  | - |
-| [The Taggart Institute](https://taggartinstitute.org/) | OS🖥️  RT🔴 | 8 | 🟩 Budget | Python, Vim, Git, Linux command line, regular expressions | [Trainings](./trainings/tti.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓 VR🧨 DF🔍 TH🏹 | 500+ | 🟩 Budget | - | - |
-| [Xintra](https://training.xintra.org/) | PT🪓 DF🔍 RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | [Trainings](./trainings/xintra.yml) |
+| [Xintra](https://training.xintra.org/) | PT🪓 DF🔍 RE🔬 | 2 | 🟧 Premium | Azure, Cloud, M356, iOS, Reverse Engineering, ARM | [Trainings](./trainings/xintra.yml) |
 
 ## Unreviewed
 
@@ -36,6 +35,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
+| [The Taggart Institute](https://taggartinstitute.org/) | OS🖥️  RT🔴 | 8 | 🟩 Budget | Python, Vim, Git, Linux command line, regular expressions | [Trainings](./trainings/tti.yml) |
 
 ## Announced
 
