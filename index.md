@@ -14,32 +14,34 @@ Second, **we aim to empower training providers by offering them increased visibi
 
 ## Reviewed
 
-| Provider | Focus Topics | Courses | Price Category | Topics | YAML |
+| Provider | Focus Topics | Courses | Price Category | Keywords | YAML |
 | --- | --- | --- | --- | --- | --- |
-| [Applied Network Defense](https://www.networkdefense.co/) | DE🧰, SM📡, TH🏹 | 13 | 🟨 Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [YAML](./trainings/applied_network_defense.yml) |
-| [Cybrary](https://www.cybrary.it/) | TH🏹, IR🪖, MA😈 | 41 | 🟩 Budget | Virtual environments, CVE analysis, APT, CrackMe, Cryptography, CTF, CompTIA, CySA+, CISSP, CEH, Compliance | - |
-| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈, DF🔍, RE🔬, DE🧰 | 10 | 🟧 Premium | Reverse Engineering, Malware Analysis, Windows Incident Response, Security Operations, Threat Hunting, YARA, APTs, ICT, Suricata, Incident Response, Ghidra |
+| [Applied Network Defense](https://www.networkdefense.co/) | DE🧰 SM📡 TH🏹 | 13 | 🟨 Value | Threat Hunting, Splunk, Log Analysis, Detection Engineering, Sigma, Honeypots, Packet Analysis, Cyber Chef, OSquery, Elk, Security Writing, Regular Expressions | [Trainings](./trainings/applied_network_defense.yml) |
+| [Cybrary](https://www.cybrary.it/) | TH🏹 IR🪖 MA😈 | 41 | 🟩 Budget | Virtual environments, CVE analysis, APT, CrackMe, Cryptography, CTF, CompTIA, CySA+, CISSP, CEH, Compliance | - |
+| [Kaspersky](https://www.kaspersky.com/enterprise-security/cyber-security-training) | MA😈 DF🔍 RE🔬 DE🧰 | 10 | 🟧 Premium | Reverse Engineering, Malware Analysis, Windows Incident Response, Security Operations, Threat Hunting, YARA, APTs, ICT, Suricata, Incident Response, Ghidra |
 | [PluralSight](https://www.pluralsight.com/browse?=&type=all&sort=default&subject=security-professional) | NA🌎 | 50+ | 🟩 Budget | - | - |
-| [Sektor7](https://institute.sektor7.net/) | RT🔴, PT🪓, MD🤖,  | 6 | 🟨 Value | Malware Development, Red Teaming, Persistence, Privilege Escalation | - |
-| [The Taggart Institute](https://taggartinstitute.org/) | PT🪓, RT🔴, OS🖥️ | 8 | 🟩 Budget | Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
-| [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
-| [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | [YAML](./trainings/xintra.yml)  | 
+| [Sektor7](https://institute.sektor7.net/) | RT🔴 PT🪓 MD🤖 | 6 | 🟨 Value | API hooking, 32-/64-bit Migrations, Reflective Binaries, Cobalt Strike, COFFs, Rootkit, OST, Evasion, Persistence, Privilege Escalation,  | - |
+| [The Taggart Institute](https://taggartinstitute.org/) | OS🖥️  RT🔴 | 8 | 🟩 Budget | Python, Vim, Git, Linux command line, regular expressions | [Trainings](./trainings/tti.yml) |
+| [TryHackMe](https://tryhackme.com/) | PT🪓 VR🧨 DF🔍 TH🏹 | 500+ | 🟩 Budget | - | - |
+| [Xintra](https://training.xintra.org/) | PT🪓 DF🔍 RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | [Trainings](./trainings/xintra.yml) |
 
 ## Unreviewed
 
-| Provider | Focus Topics | Courses | Price Category | Topics | YAML |
+| Provider | Focus Topics | Courses | Price Category | Keywords | YAML |
 | --- | --- | --- | --- | --- | --- |
-| [Cyber5W](https://cyber5w.com/) | DF🔍, MA😈 | 5 | 🟧 Premium | Digital Forensics, Malware Analysis, Mobile Forensics, Linux Forensics | - | 
+| [binary-offensive.com](https://binary-offensive.com/initial-access-training) | RT🔴 PT🪓 | 1 | 🟧 Premium | Mythic, C2, Evasion, Maldocs, MSI, HTML Smuggling, Infection Chains, PE Backdooring, Obfuscation, Shell Code Loaders | [Trainings](./trainings/binary_offensive.yml) |
+| [Cyber5W](https://cyber5w.com/) | DF🔍 MA😈 | 5 | 🟧 Premium | Data recovery, carving, Anti-Forensics, File System, Caches, Artifacts | - |
+| [Nexus InfoSec](https://nexusinfosec.podia.com/) | RT🔴 PT🪓 | 1 | 🟧 Premium | Kali Linux, Nessus, Nmap, Port Scanning, OpenVAS, Metasploit, Bloodhound, Kerberoasting, PowerView, Adversary Emulation, OPSEC, MITRE ATT&CK, Obfuscation | [Trainings](./trainings/adversary_cyber_security_expert.yml) |
 | [ost2](https://p.ost2.fyi/courses) | RE🔬 | 14 | 🟩 Budget | Reverse Engineering, Assembly, Debugger, WinDbg, Gdb, Firmware | - |
-| [RET2](https://wargames.ret2.systems/) | VR🧨, RE🔬 | 2 | 🟧 Premium | Vulnerability Research, Reverse Engineering | [YAML](./trainings/RET2.yml) |
-| [Signal Labs](https://signal-labs.com/) | VR🧨, RE🔬, MD🤖 | 3 | 🟥 Exclusive | Vulnerability Research, Reverse Engineering, Offensive Tool Development | [YAML](./trainings/signal_labs.yml) |
-| [BlackPerl DFIR](https://academy.blackperldfir.com/learn) | IR🪖, DF🔍, TH🏹,MA😈  | 6 | 🟩 Budget | Incident Response, Digital Forensics, Threat Hunting, Malware Analysis | [YAML](./trainings/blackperl_dfir.yml)  |
+| [BlackPerl DFIR](https://academy.blackperldfir.com/learn) | IR🪖, DF🔍, TH🏹, MA😈 | 6 | 🟩 Budget | Incident Response, Digital Forensics, Threat Hunting, Malware Analysis | [YAML](./trainings/blackperl_dfir.yml)  |
+| [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
+| [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
 
 ## Announced
 
-| Provider | Focus Topics | Courses | Price Category | Topics | YAML |
+| Provider | Focus Topics | Courses | Price Category | Keywords | YAML |
 | --- | --- | --- | --- | --- | --- |
-| [hextree](https://www.hextree.io/) | WH🕸️, RE🔬, PT🪓 | ? | ? | - | - |
+| [hextree](https://www.hextree.io/) | WH🕸️ RE🔬 PT🪓 | ? | ? | - | - |
 
 # Explanations
 
@@ -79,6 +81,18 @@ Second, **we aim to empower training providers by offering them increased visibi
 | NT🛜 | Networking |
 | OS🖥️ | Operating Systems and Tools |
 | MC🧭 | Management and Compliance |
+
+## Keywords in Overview
+
+The keyword column in the overview tables isn't mean as a repetition of the "Focus Topics" column but should include more specific keywords like products, tools, languages, services, protocols, project names. 
+
+Examples: 
+
+Focus Topic: Threat Hunting
+Keywords: OSQuery, Splunk, YARA, Sigma
+
+Focus Topic: Reverse Engineering
+Keywords: IDA, Ghidra, ARM, iOS
 
 ## Values in the YAML files
 
