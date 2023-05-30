@@ -1,0 +1,17 @@
+provider: Adversary Cyber Security Expert (ACSE)
+website: https://nexusinfosec.com/acse
+price-category: Premium
+previews-available: true
+access-period: 12 months
+discount-bulk-purchase: true
+trainings:
+   - title: Adversary Simulations & Penetration Testing
+     short-description: Hands-on Build your own Lab training on how to act and think like a Nation State and conduct attacks.
+     description: | 
+      Built on the esteemed MITRE Framework, ACSE offers unparalleled insights into the tactics, techniques, and procedures (TTPs) used by nation-state cyber attackers to infiltrate companies. 
+      Imagine you gaining this ability through a practical approach and learning every attack technique and how to apply it in a controlled environment gaining invaluable hands-on experience.
+      All you need is a laptop and internet connection to start learning. All labs are BYOL (Build Your Own Labs), giving you the opportunity to learn and practice.
+    tags: Red Teaming, Penetration Testing
+    preview-urls:
+      - https://nexusinfosec.podia.com/acse-online-course
+    price: 700 USD
