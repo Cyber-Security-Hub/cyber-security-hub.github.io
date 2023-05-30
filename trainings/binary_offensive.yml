@@ -1,0 +1,19 @@
+provider: Binary Offensive
+website: https://binary-offensive.com/initial-access-training
+price-category: Premium
+previews-available: no
+trainings:
+    - title: Modern Initial Access and Evasion Tactics Training
+      short-description: This intermediate level, 3-days long intensive course dives deep into Modern Initial Access and Evasion tactics, that were found effective on numerous engagements delivered in tightly monitored environments. 
+      description: |
+        The author shares his insights regarding strategies that made his malware accomplish engagement objectives, side by side with aggressively configured AVs & EDRs.
+
+        Designing modern Red Team malware carriers smuggled in scripts, executables and HTML websites are only some of the areas the course focuses on. We will explore numerous technical concepts, file formats, craft advanced malicious Office documents, shellcode loaders, smuggling payloads and other infected scripts that will help us breach target systems effectively.
+
+        By applying modern AV & EDR evasion techniques into custom crafted Red Team weaponry, capable teams will be equipped with knowledge to succeed during adversary simulations even in the rapidly changing threat surface landscape.
+
+        This course focuses just on that - telling effective techniques apart from ones that doesn't work any longer.
+      tags: Mythic, C2, Evasion, Maldocs, MSI, HTML Smuggling, Infection Chains, PE Backdooring, Obfuscation, Shell Code Loaders
+      price: 1700 EUR
+      type:
+        - live

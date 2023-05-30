@@ -1,4 +1,4 @@
-# training provider schema version 0.1
+# training provider schema version 0.3
 # https://rx.codesimply.com/
 type: //rec
 required:
@@ -19,7 +19,7 @@ optional:
               value: exclusive
     previews-available: //bool
     discount-bulk-purchase: //bool
-    focus:  # see acronyms listed on website
+    focus-area:  # see acronyms listed on website
         type: //arr
         contents: //str  
     trainings:
@@ -31,22 +31,28 @@ optional:
             length:
                 min: 1
                 max: 256
-            description: //str
+            description: //
+            length:
+                min: 1
+                max: 4096
             tags:
                 type: //arr
                 contents: //str
             price: //str
             duration: //int  # in hours 
             with-labs: //bool
+            preview-urls: 
+              type: //arr
+              contents: //str
             type:  # see price categories listed on website
                 type: //any
                 of:
                     - type: //str
-                      value: online
+                      value: self-paced
                     - type: //str
                       value: on-site
                     - type: //str
-                      value: private
+                      value: live
                     - type: //str
                       value: offline
                     - type: //str

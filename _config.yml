@@ -3,7 +3,7 @@
 # Defaults settings https://jekyllrb.com/docs/configuration/#default-configuration
 
 title: Cyber Security Hub
-description: "A Collection of Cyber Security Tranings"
+description: "A Collection of Cyber Security Trainings"
 
 url: # (optional) https://example.com, defaults to http://localhost:4000 in development
 
