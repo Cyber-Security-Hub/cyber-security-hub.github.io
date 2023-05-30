@@ -34,6 +34,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
 | [binary-offensive.com](https://binary-offensive.com/initial-access-training) | RT🔴 PT🪓 | 1 | 🟧 Premium | Mythic, C2, Evasion, Maldocs, MSI, HTML Smuggling, Infection Chains, PE Backdooring, Obfuscation, Shell Code Loaders | [Trainings](./trainings/binary_offensive.yml) |
+| [Nexus InfoSec](https://nexusinfosec.podia.com/) | RT🔴 PT🪓 | 1 | 🟧 Premium | Kali Linux, Nessus, Nmap, Port Scanning, OpenVAS, Metasploit, Bloodhound, Kerberoasting, PowerView, Adversary Emulation, OPSEC, MITRE ATT&CK, Obfuscation | [Trainings](./trainings/adversary_cyber_security_expert.yml) |
 
 ## Announced
 
