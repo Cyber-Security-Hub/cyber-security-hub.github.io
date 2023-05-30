@@ -2,7 +2,6 @@ provider: Binary Offensive
 website: https://binary-offensive.com/initial-access-training
 price-category: Premium
 previews-available: no
-access-period: 3 months
 trainings:
     - title: Modern Initial Access and Evasion Tactics Training
       short-description: This intermediate level, 3-days long intensive course dives deep into Modern Initial Access and Evasion tactics, that were found effective on numerous engagements delivered in tightly monitored environments. 
