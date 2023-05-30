@@ -15,9 +15,11 @@ trainings:
       - https://training.xintra.org/view/courses/attacking-and-defending-azure-m365/1651847-7-credential-theft/5442878-detect-skeleton-keys-pta-abuse
      duration: 18
      price: 1550 USD
+     with-labs: true
      type:
       - self-paced
       - live
    - title: Reversing and Exploiting iOS (ARM64)
      short-description: This course covers exploitation against iOS (arm64) covering stack based exploitation, integer overflows and heap-based exploitation.
      tags: ARM, ARM64, Exploitation, Reverse Engineering
+     with-labs: true
