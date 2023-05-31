@@ -36,6 +36,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
 | [The Taggart Institute](https://taggartinstitute.org/) | OS🖥️  RT🔴 | 8 | 🟩 Budget | Python, Vim, Git, Linux command line, regular expressions | [Trainings](./trainings/tti.yml) |
+| [Invictus Incident Response](https://invictus-ir.com/) | DF🔍 IR🪖 | 1 | 🟥 Exclusive  | Digital Forensics, Incident Response, Cloud Security, Microsoft Azure, Microsoft 365 | [Trainings](./trainings/invictus.yml) |
 
 ## Announced
 
