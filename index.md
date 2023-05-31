@@ -36,7 +36,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
 | [The Taggart Institute](https://taggartinstitute.org/) | OS🖥️  RT🔴 | 8 | 🟩 Budget | Python, Vim, Git, Linux command line, regular expressions | [Trainings](./trainings/tti.yml) |
-| [Altered Security](https://www.alteredsecurity.com/) | RT🔴 PT🪓| 6 | 🟨 Value | Active Directory, Enterprise Security, Azure, Privilege Escalation, Lateral Movement, Persistence, Cross Trust Attacks, Deception, Evasion, MDI, WDAC, Graph API, Conditional Access Policies, Azure AD Identity Protection| [Trainings](./trainings/ALteredSecurity.yml)|
+| [Altered Security](https://www.alteredsecurity.com/) | RT🔴 PT🪓| 6 | 🟨 Value | Active Directory, Enterprise Security, Azure, Privilege Escalation, Lateral Movement, Persistence, Cross Trust Attacks, Deception, Evasion, MDI, WDAC, Graph API, Conditional Access Policies, Azure AD Identity Protection| [Trainings](./trainings/alteredsecurity.yml)|
 
 ## Announced
 
