@@ -1,0 +1,59 @@
+provider: Altered Security
+website: https://www.alteredsecurity.com/
+price-category: value
+previews-available: true
+access-period: 1/2/3 months
+discount-bulk-purchase: true
+focus: 
+- RT
+- PT
+trainings:
+   - title: Attacking and Defending Active Directory Lab (Certified Red Team Professional - CRTP)
+     short-description: Understand, analyze and practice threats and attacks in a modern Active Directory environment with Server 2022 machines. The course is beginner friendly and comes with multiple learning aids that include video course, slides and multiple lab manuals.
+     tags: Active Directory, Enterprise Security, Red Team, AD
+     duration: 14
+     price: 249 USD
+     with-labs: true
+     type:
+      - all
+   - title: Advanced Windows Red Team Lab (Certified Red Team Expert - CRTE)
+     short-description: Learn and execute attacks as a non-admin user and work your way up to enterprise admin in a true multi-forest environment with focus on AD OpSec and abusing features. This lab is for intermediate/advanced users and comes with multiple learning aids.
+     tags: Active Directory, Enterprise Security, Red Team, AD
+     duration: 14
+     price: 299 USD
+     with-labs: true
+     type:
+      - all
+   - title: Global Central Bank (Certified Red Team Master - CRTM)
+     short-description: Global Central Bank (GCB) is a one of a kind Enterprise Windows and Active Directory Cyber Range. It helps enterprises test capabilities of both their Red and Blue teams in an Enterprise Windows network.
+     tags: Active Directory, Enterprise Security, Red Team, AD
+     duration: 3
+     price: 399 USD
+     with-labs: true
+     type:
+      - all
+   - title: Attacking and Defending Azure Cloud (Certified Azure Red Team Professional - CARTP)
+     short-description: This beginner friendly course and lab helps in upskilling to one of the most coveted skills in information security – Azure security. The lab is designed in a way that students can solve it in multiple ways! 
+     tags: Azure, Cloud, Enterprise Security, AzureAD
+     duration: 15
+     price: 449 USD
+     with-labs: true
+     type:
+      - all     
+   - title: Azure Application Security (Certified Azure Web Application Security Professional - CAWASP)
+     short-description: This lab and course covers abusing application flaws/misconfiguration, features, and interoperability to compromise an enterprise-like live lab environment in Azure. Each student gets a dedicated lab! As a bonus, there is a shared lab to practice with fellow students. 
+     tags: Azure, Cloud, Enterprise Security, AppSec
+     duration: 17
+     price: 299 USD
+     with-labs: true
+     type:
+      - all     
+   - title: Attacking Active Directory with Linux (LinuxAD)
+     short-description: Attacking Active Directory with Linux (LinuxAD) is a beginner friendly training environment and playground. Students get access to dedicated lab setup (not shared with other students).
+     tags: Active Directory, Enterprise Security, Red Team, AD
+     duration: 6
+     price: 149 USD
+     with-labs: true
+     type:
+      - all
+     
