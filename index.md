@@ -28,6 +28,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 
 | Provider | Focus Topics | Courses | Price Category | Keywords | YAML |
 | --- | --- | --- | --- | --- | --- |
+| [Altered Security](https://www.alteredsecurity.com/) | RT🔴 PT🪓| 6 | 🟨 Value | Active Directory, Enterprise Security, Azure, Privilege Escalation, Lateral Movement, Persistence, Cross Trust Attacks, Deception, Evasion, MDI, WDAC, Graph API, Conditional Access Policies, Azure AD Identity Protection| [Trainings](./trainings/alteredsecurity.yml)|
 | [binary-offensive.com](https://binary-offensive.com/initial-access-training) | RT🔴 PT🪓 | 1 | 🟧 Premium | Mythic, C2, Evasion, Maldocs, MSI, HTML Smuggling, Infection Chains, PE Backdooring, Obfuscation, Shell Code Loaders | [Trainings](./trainings/binary_offensive.yml) |
 | [Cyber5W](https://cyber5w.com/) | DF🔍 MA😈 | 5 | 🟧 Premium | Data recovery, carving, Anti-Forensics, File System, Caches, Artifacts | - |
 | [CyberDefenders](https://cyberdefenders.org/) | DF🔍 DE🧰 TH🏹 | 1 | 🟧 Premium | Disk forensics, Memory Forensics, Network Forensics, Velociraptor, Email Security, Canary Tokens, ELK, OSSEC, RITA, USB Forensics, GoPhish, Sysmon, Vulnerability Management, Sentinel, Suricata, Phishing Attacks | [YAML](./trainings/cyberdefenders.yml) |
@@ -37,7 +38,6 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [RET2](https://wargames.ret2.systems/) | VR🧨 RE🔬 | 2 | 🟧 Premium | War Games, virtual environment, gamified learning | [Trainings](./trainings/ret2.yml) |
 | [Signal Labs](https://signal-labs.com/) | VR🧨 RE🔬 MD🤖 | 3 | 🟥 Exclusive | 0-days, fuzzing, bypass, EDR, AV, C2, implants, Cobalt Strike, Kernel, Rootkit, Ghidra, Binary Ninja, IDA, Hypervisor | [Trainings](./trainings/signal_labs.yml) |
 | [The Taggart Institute](https://taggartinstitute.org/) | OS🖥️  RT🔴 | 8 | 🟩 Budget | Python, Vim, Git, Linux command line, regular expressions | [Trainings](./trainings/tti.yml) |
-| [Altered Security](https://www.alteredsecurity.com/) | RT🔴 PT🪓| 6 | 🟨 Value | Active Directory, Enterprise Security, Azure, Privilege Escalation, Lateral Movement, Persistence, Cross Trust Attacks, Deception, Evasion, MDI, WDAC, Graph API, Conditional Access Policies, Azure AD Identity Protection| [Trainings](./trainings/alteredsecurity.yml)|
 
 ## Announced
 
