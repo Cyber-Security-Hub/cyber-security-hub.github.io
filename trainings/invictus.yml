@@ -1,0 +1,19 @@
+provider: Invictus Incident Response
+website: https://invictus-ir.com/
+price-category: Exclusive
+previews-available: false
+discount-bulk-purchase: true
+focus-area: 
+  - DF
+  - IR
+trainings:
+   - title: Hands-on Incident Response in the Cloud — Microsoft Edition 
+     short-description: In this two-days hands-on training you’ll learn everything you need to know about incident response in the Microsoft cloud. This training covers both Microsoft 365 and Microsoft Azure.
+     description: This two-day training/workshop offers a comprehensive guide to incident response in the Microsoft cloud, covering various topics essential for handling threats and attacks. The course starts with an overview of the concepts of the Microsoft cloud that are relevant for incident response. Participants will learn how to scope an incident in the Microsoft cloud and how to leverage it to set up an incident response capability. The training also covers the different types of evidence available in a Microsoft 365 environment and the various types of attacks that are commonly observed in such an environment. Participants will gain an understanding of how to acquire data from a Microsoft 365 environment using multiple methods and tools, and how to parse, enrich, and analyze the Microsoft 365 Unified Audit Log (UAL). Additionally, the training teaches how to load logs into Microsoft Log Analytics for incident response purposes. Finally, participants will learn about the different types of attacks that are often observed in the cloud and how to respond to them effectively. By the end of the training, participants will be equipped with the knowledge and skills necessary to investigate any threat in the Microsoft cloud with confidence.
+     tags: Incident Response, Digital Forensics, Cloud Security, Log Analytics, KQL 
+     duration: 16
+     price: 2250 USD
+     with-labs: true
+     type:
+      - live
+      - on-site
