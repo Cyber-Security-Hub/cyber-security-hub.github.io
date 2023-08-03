@@ -56,8 +56,8 @@ Second, **we aim to empower training providers by offering them increased visibi
 | --- | --- |
 | PT🪓 | Penetration Testing |
 | WH🕸️ | Web Hacking |
-| VR🧨 | Vulnerability Research | 
-| RE🔬 | Reverse Engineering | 
+| VR🧨 | Vulnerability Research |
+| RE🔬 | Reverse Engineering |
 | RT🔴 | Red Teaming |
 | MD🤖 | Malware Development |
 
@@ -67,9 +67,9 @@ Second, **we aim to empower training providers by offering them increased visibi
 | --- | --- |
 | DF🔍 | Digital Forensics |
 | IR🪖 | Incident Response |
-| DE🧰 | Detection Engineering | 
-| TH🏹 | Threat Hunting | 
-| MA😈 | Malware Analysis | 
+| DE🧰 | Detection Engineering |
+| TH🏹 | Threat Hunting |
+| MA😈 | Malware Analysis |
 | TI🗺️ | Threat Intelligence |
 | DT🪤 | Deception Technology |
 | SM📡 | Security Monitoring |
@@ -87,9 +87,9 @@ Second, **we aim to empower training providers by offering them increased visibi
 
 ## Keywords in Overview
 
-The keyword column in the overview tables isn't mean as a repetition of the "Focus Topics" column but should include more specific keywords like products, tools, languages, services, protocols, project names. 
+The keyword column in the overview tables isn't mean as a repetition of the "Focus Topics" column but should include more specific keywords like products, tools, languages, services, protocols, project names.
 
-Examples: 
+Examples:
 
 Focus Topic: Threat Hunting
 Keywords: OSQuery, Splunk, YARA, Sigma
@@ -148,7 +148,7 @@ Use at maximum 4 focus areas. If a person is required to select more than four f
 ### Trainings
 
 - Name: title of the training
-- Short-Description: a short description of the training using less than 256 characters. 
+- Short-Description: a short description of the training using less than 256 characters.
 - Description: a long description of the training using less than 4096 characters.
 - Tags: keywords related to the contents of the training
 - Price: the price of the training
@@ -158,7 +158,9 @@ Use at maximum 4 focus areas. If a person is required to select more than four f
 
 ## Contributions
 
-To contribute to Cyber Security Hub, simply perform the following steps. 
+To contribute to Cyber Security Hub, simply perform the following steps.
+
+You can find the github repository from which this page was built [here](https://github.com/Cyber-Security-Hub/cyber-security-hub.github.io).
 
 ### How to create a Pull Request
 
